@@ -1371,3 +1371,4 @@ Signed,
 - Krishnakumar Rajendran :bowtie:([@kk-r](https://github.com/kk-r)), Full Stack Developer, India
 - Umar Haruna Abdullahi ([@umarbrowser](https://github.com/umarbrowser)), C.E.O Python Nigeria, Gombe, Nigeria
 - Anagh Rao ([@anaghrao-99](https://github.com/anaghrao-99)), CS Freshman, IIIT Allahabad.
+- Anmol Singh Sethi ([@xanmolx](https://github.com/xanmolx)), IT Engineer, IIIT Allahabad
